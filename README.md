@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Charlie!! 👋
+
+I am a member of The University of Electoro-Communications.I am a student.My hobby is amature radio as JJ1MZP! 
+My major is electronic science. Recently, I've been doing circuit design with LTSpice. I like making transceivers.
+
+私は電気通信大学に所属する学生です。JJ1MZPとしてアマチュア無線が趣味です！
+私の専攻は電子工学です。最近はLTSpiceを使って回路設計をしています。あだ名はチャーリーです。
+
+
+
+
 
 <!--
 **omidutabetai/omidutabetai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
